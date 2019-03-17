@@ -12,5 +12,12 @@
     <description>New RSS tutorial on W3Schools</description>
     <pubDate>Sun, 17 Mar 2019 08:00:00 EST</pubDate>
   </item>
+   <item>
+    <title>RSS Tutorial</title>
+    <link>https://shivanandbg28.github.io/blog1.html</link>
+    <guid>https://shivanandbg28.github.io/blog1.html</guid>
+    <description>New RSS tutorial on W3Schools again</description>
+    <pubDate>Sun, 17 Mar 2019 08:00:00 EST</pubDate>
+  </item>
 </channel>
 </rss>
