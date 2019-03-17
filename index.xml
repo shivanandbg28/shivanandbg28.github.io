@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" xmlns:atom="http://www.w3.org/2005/Atom" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
   <title>RSS Feed</title>
@@ -7,8 +7,9 @@
   <item>
     <title>RSS Tutorial</title>
     <link>https://shivanandbg28.github.io/blog.html</link>
+    <guid>https://shivanandbg28.github.io/blog.html</guid>
     <description>New RSS tutorial on W3Schools</description>
-    <pubDate>Sun, 17 March</pubDate>
+    <pubDate>Sun, 17 Mar 2019 08:00:00 EST</pubDate>
   </item>
 </channel>
 </rss>
