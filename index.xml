@@ -1,16 +1,19 @@
+
+  
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
+  <title>RSS Feed</title>
   <link>https://shivanandbg28.github.io</link>
   <description>Free web building tutorials</description>
   <item>
     <title>RSS Tutorial</title>
-    <link>https://shivanandbg28.github.io/index.html</link>
+    <link>https://shivanandbg28.github.io/blog.html</link>
     <description>New RSS tutorial on W3Schools</description>
+    <pubDate>Sun, 17 March</pubDate>
   </item>
  
 </channel>
 
-</rss> 
+</rss>
